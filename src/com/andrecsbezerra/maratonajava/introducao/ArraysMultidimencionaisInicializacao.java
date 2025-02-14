@@ -1,6 +1,6 @@
 package com.andrecsbezerra.maratonajava.introducao;
 
-public class ArraysMultidimencionaisInicialização {
+public class ArraysMultidimencionaisInicializacao {
     public static void main(String[] args) {
         int [][] arrayInt = new int[3][];
 
