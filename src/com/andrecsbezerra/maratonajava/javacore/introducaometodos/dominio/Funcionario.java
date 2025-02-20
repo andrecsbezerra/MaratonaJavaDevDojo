@@ -17,11 +17,7 @@ public class Funcionario {
         imprimeMediaSalarial();
     }
 
-    public void imprimeMediaSalarial(){
-        if (salarios == null){
-            return;
-        }
-
+    private void imprimeMediaSalarial(){
         double media = 0;
         for (double salario: salarios){
             media+= salario;
