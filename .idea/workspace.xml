@@ -44,7 +44,7 @@
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -117,7 +117,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/saiki/Downloads/demo-1.2.3.zip",
+    "last_opened_file_path": "C:/Users/saiki/Desktop/ProgrammingLogicExercises",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
