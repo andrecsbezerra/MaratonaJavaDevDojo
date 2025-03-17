@@ -29,8 +29,7 @@ Com este estudo, eu posso:
 
 ## 📫 Contato
 **André Bezerra**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andrecsbezerra/)  
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andrebezerracomercial@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andrecsbezerra/)  [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andrebezerracomercial@gmail.com)  
 
 🚀 *Obrigado por conferir meus estudos!*
 
@@ -42,7 +41,7 @@ Com este estudo, eu posso:
 - Maratona Java 5 - [Estruturas Condicionais -  IF ELSE](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturasCondicionais.java)
 - Maratona Java 6 - [Estruturas Condicionais - Operador ternário](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/OperadorTernario.java)
 - Maratona Java 7 - [Estruturas Condicionais - Switch](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/Switch.java)
-- Maratona Java 8- [Estruturas Condicionais - Switch exercício](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/SwitchExercicio.java)
+- Maratona Java 8 - [Estruturas Condicionais - Switch exercício](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/SwitchExercicio.java)
 - Maratona Java 9 - [Estruturas de Repetição pt 01 - Laços de repetição while, do while, for](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturasDeRepeticao.java)
 - Maratona Java 10 - [Estruturas de Repetição pt 02 - Exercício for](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturasDeRepeticaoExercicio.java)
 - Maratona Java 11 - [Estruturas de Repetição pt 03 - Break](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturaDeRepeticaoBreak.java)
