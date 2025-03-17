@@ -35,29 +35,25 @@ Com este estudo, eu posso:
 🚀 *Obrigado por conferir meus estudos!*
 
 ---
-Maratona Java 1 - [Comentários](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/OlaDevDojo.java)
-Maratona Java 1 - Tipos primitivos 
-Maratona Java 2 - Tipos primitivos - Exercício
-Maratona Java 15 - Operadores
-Maratona Java 20 - Estruturas Condicionais pt 01 - IF
-Maratona Java 21 - Estruturas Condicionais pt 02 - ELSE IF
-Maratona Java 22 - Estruturas Condicionais - Operador ternário
-Maratona Java 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
-Maratona Java 24 - Estruturas Condicionais pt 05 - Resolução do exercícios
-Maratona Java 25 - Estruturas Condicionais - Switch
-Maratona Java 26 - Estruturas Condicionais - Switch exercício
-Maratona Java 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for
-Maratona Java 28 - Estruturas de Repetição pt 02 - Exercício for
-Maratona Java 29 - Estruturas de Repetição pt 03 - Break
-Maratona Java 30 - Estruturas de Repetição pt 04 - Exercício Break
-Maratona Java 31 - Estruturas de Repetição pt 05 - Continue
-Maratona Java 32 - Arrays pt 01
-Maratona Java 33 - Arrays pt 02
-Maratona Java 34 - Arrays pt 03
-Maratona Java 35 - Arrays pt 04 - Foreach
-Maratona Java 36 - Arrays Multidimensionais pt 01
-Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach
-Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
+- Maratona Java 1 - [Comentários](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/OlaDevDojo.java)
+- Maratona Java 2 - [Tipos primitivos](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/TiposPrimitivos.java) 
+- Maratona Java 3 - [Tipos primitivos - Exercício](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/TiposPrimitivosExercicios.java)
+- Maratona Java 4 - [Operadores](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/Operadores.java)
+- Maratona Java 5 - [Estruturas Condicionais -  IF ELSE](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturasCondicionais.java)
+- Maratona Java 6 - [Estruturas Condicionais - Operador ternário](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/OperadorTernario.java)
+- Maratona Java 7 - [Estruturas Condicionais - Switch](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/Switch.java)
+- Maratona Java 8- [Estruturas Condicionais - Switch exercício](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/SwitchExercicio.java)
+- Maratona Java 9 - [Estruturas de Repetição pt 01 - Laços de repetição while, do while, for](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturasDeRepeticao.java)
+- Maratona Java 10- [Estruturas de Repetição pt 02 - Exercício for](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturasDeRepeticaoExercicio.java)
+- Maratona Java 11 - [Estruturas de Repetição pt 03 - Break](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturaDeRepeticaoBreak.java)
+- Maratona Java 12 - [Estruturas de Repetição pt 04 - Exercício Break](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturaDeRepeticaoBreakExercicio.java)
+- Maratona Java 13 - [Estruturas de Repetição pt 05 - Continue](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturaDeRepeticaoContinue.java)
+- Maratona Java 14 - [Arrays pt 01](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/Arrays.java)
+- Maratona Java 15- [Arrays pt 02](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/Arrays2.java)
+- Maratona Java 16 - [Arrays pt 04 - Foreach](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysForEach.java)
+- Maratona Java 17 - [Arrays Multidimensionais pt 01](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysMultidimencionais.java)
+- Maratona Java 18 - [Arrays Multidimensionais pt 02 - Foreach](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysMultidimencionaisForEach.java)
+- Maratona Java 19 - [Arrays Multidimensionais pt 03 - Inicialização](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysMultidimencionaisInicializacao.java)
 Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01
 Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
 Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
