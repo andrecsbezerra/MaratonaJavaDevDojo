@@ -34,7 +34,8 @@ Com este estudo, eu posso:
 🚀 *Obrigado por conferir meus estudos!*
 
 ---
--Maratona Java 1 - [Comentários](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/OlaDevDojo.java)
+## Links Para os Arquivos
+- Maratona Java 1 - [Comentários](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/OlaDevDojo.java)
 - Maratona Java 2 - [Tipos primitivos](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/TiposPrimitivos.java) 
 - Maratona Java 3 - [Tipos primitivos - Exercício](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/TiposPrimitivosExercicios.java)
 - Maratona Java 4 - [Operadores](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/Operadores.java)
