@@ -49,7 +49,7 @@ Com este estudo, eu posso:
 - Maratona Java 13 - [Estruturas de Repetição pt 05 - Continue](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/EstruturaDeRepeticaoContinue.java)
 - Maratona Java 14 - [Arrays pt 01](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/Arrays.java)
 - Maratona Java 15 - [Arrays pt 02](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/Arrays2.java)
-- Maratona Java 16 - [Arrays pt 04 - Foreach](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysForEach.java)
+- Maratona Java 16 - [Arrays pt 03 - Foreach](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysForEach.java)
 - Maratona Java 17 - [Arrays Multidimensionais pt 01](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysMultidimencionais.java)
 - Maratona Java 18 - [Arrays Multidimensionais pt 02 - Foreach](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysMultidimencionaisForEach.java)
 - Maratona Java 19 - [Arrays Multidimensionais pt 03 - Inicialização](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysMultidimencionaisInicializacao.java)
