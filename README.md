@@ -34,7 +34,7 @@ Com este estudo, eu posso:
 🚀 *Obrigado por conferir meus estudos!*
 
 ---
-- Maratona Java 1 - [Comentários](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/OlaDevDojo.java)
+-Maratona Java 1 - [Comentários](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/OlaDevDojo.java)
 - Maratona Java 2 - [Tipos primitivos](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/TiposPrimitivos.java) 
 - Maratona Java 3 - [Tipos primitivos - Exercício](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/TiposPrimitivosExercicios.java)
 - Maratona Java 4 - [Operadores](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/Operadores.java)
@@ -53,63 +53,25 @@ Com este estudo, eu posso:
 - Maratona Java 17 - [Arrays Multidimensionais pt 01](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysMultidimencionais.java)
 - Maratona Java 18 - [Arrays Multidimensionais pt 02 - Foreach](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysMultidimencionaisForEach.java)
 - Maratona Java 19 - [Arrays Multidimensionais pt 03 - Inicialização](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/introducao/ArraysMultidimencionaisInicializacao.java)
-Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01
-Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
-Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
-Maratona Java 42 - Orientação Objetos - Exercício Classes
-Maratona Java 43 - Orientação Objetos - Referência de objetos
-Maratona Java 44 - Orientação Objetos - Métodos pt 01
-Maratona Java 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
-Maratona Java 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
-Maratona Java 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
-Maratona Java 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
-Maratona Java 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
-Maratona Java 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
-Maratona Java 51 - Orientação Objetos - Métodos pt 08 - Referência this
-Maratona Java 52 - Orientação Objetos - Métodos pt 09 - Varargs
-Maratona Java 53 - Orientação Objetos - Métodos pt 10 - Exercise
-Maratona Java 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
-Maratona Java 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
-Maratona Java 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
-Maratona Java 57 - Orientação Objetos - Sobrecarga de métodos
-Maratona Java 58 - Orientação Objetos - Construtores pt 01
-Maratona Java 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga
-Maratona Java 60 - Orientação Objetos - Blocos de inicialização
-Maratona Java 61 - Orientação Objetos - Modificador static
-Maratona Java 62 - Orientação Objetos - Métodos estáticos
-Maratona Java 63 - Orientação Objetos - Bloco de inicialização estático
-Maratona Java 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos
-Maratona Java 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
-Maratona Java 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
-Maratona Java 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
-Maratona Java 68 - Orientação Objetos - Leitura de dados pelo console
-Maratona Java 69 - Orientação Objetos - Exercício leitura de dados do teclado
-Maratona Java 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
-Maratona Java 71 - Orientação Objetos - Herança pt 01
-Maratona Java 72 - Orientação Objetos - Herança pt 02 - Super
-Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected
-Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
-Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
-Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString
-Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo
-Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência
-Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos
-Maratona Java 80 - Orientação Objetos - Enumeração pt 01 - Introdução
-Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
-Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
-Maratona Java 83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos
-Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
-Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
-Maratona Java 86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras
-Maratona Java 87 - Orientação Objetos - Interfaces pt 01 - Introdução
-Maratona Java 88 - Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces
-Maratona Java 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos
-Maratona Java 90 - Orientação Objetos - Polimorfismo pt 01 - Introdução
-Maratona Java 91 - Orientação Objetos - Polimorfismo pt 02 - Funcionamento
-Maratona Java 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos
-Maratona Java 93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof
-Maratona Java 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface
-Maratona Java 95 - Exceções pt 01 - Errors
+- Maratona Java 20 - [Orientação Objetos - Introdução classes](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/introducaoclasses)
+- Maratona Java 21 - [Orientação Objetos - Exercício Classes | Referência de objetos](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/introducaoclasses)
+- Maratona Java 22 - [Orientação Objetos - Métodos ](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/introducaometodos)
+- Maratona Java 23 - [Orientação Objetos - Modificador de acesso private, get e set ](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/modificadoresestaticos)
+- Maratona Java 24 - [Orientação Objetos - Sobrecarga de métodos](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/sobrecargametodos)
+- Maratona Java 25 - [Orientação Objetos - Construtores ](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/construtores)
+- Maratona Java 26 - [Orientação Objetos - Blocos de inicialização](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/blocosdeinicializacao)
+- Maratona Java 27 - [Orientação Objetos - Modificador static | Métodos estáticos | Bloco de inicialização estático](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/modificadoresestaticos)
+- Maratona Java 28 - [Orientação Objetos - Associação pt 01](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/associacao) 
+- Maratona Java 29 - [Orientação Objetos - Associação Exercicio](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/associacaoexercicio)
+- Maratona Java 30 - [Orientação Objetos - Associação Exercicio Resolução](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/associacaoexercicioresolucao)
+- Maratona Java 31 - [Orientação Objetos - Herança](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/heranca)
+- Maratona Java 32 - [Orientação Objetos - Sobrescrita do método toString](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/sobrescrita)
+- Maratona Java 33 - [Orientação Objetos - Modificador final](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/modificadorfinal)
+- Maratona Java 34 - [Orientação Objetos - Enumeração](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/enumeracoes)
+- Maratona Java 35 - [Orientação Objetos - Classes abstratas ](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/classesabstratas)
+- Maratona Java 36 - [Orientação Objetos - Interfaces](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/interfaces)
+- Maratona Java 37 - [Orientação Objetos - Polimorfismo](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/polimorfismo)
+- Maratona Java 38 - [Exceções](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/exception)
 Maratona Java 96 - Exceções pt 02 - RuntimeException
 Maratona Java 97 - Exceções pt 03 - Exception
 Maratona Java 98 - Exceções pt 04 - Lançando exceção unchecked
