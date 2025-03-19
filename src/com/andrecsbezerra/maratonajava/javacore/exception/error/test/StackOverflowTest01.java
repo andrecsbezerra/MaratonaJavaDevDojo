@@ -1,4 +1,4 @@
-package com.andrecsbezerra.maratonajava.javacore.exception.test;
+package com.andrecsbezerra.maratonajava.javacore.exception.error.test;
 
 public class StackOverflowTest01 {
     public static void main(String[] args) {
