@@ -5,8 +5,8 @@ import java.io.IOException;
 
 public class ExceptionTest01 {
     public static void main(String[] args) {
-        boolean criarArquivo = true;
-        boolean deletarArquibo = false;
+        boolean criarArquivo = false;
+        boolean deletarArquibo = true;
         if (criarArquivo) {
             criarNovoArquivo();
         }
