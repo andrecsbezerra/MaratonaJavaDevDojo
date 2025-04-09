@@ -1,6 +1,6 @@
 package com.andrecsbezerra.maratonajava.javacore.string.test;
 
-public class StringPerformanceTest {
+public class StringPerformanceTest01 {
     public static void main(String[] args) {
         long incio = System.currentTimeMillis();
         concatString(100_000);
