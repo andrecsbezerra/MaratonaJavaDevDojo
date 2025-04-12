@@ -1,4 +1,4 @@
-package com.andrecsbezerra.maratonajava.javacore.formatacao.test;
+package com.andrecsbezerra.maratonajava.javacore.datas.test;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
