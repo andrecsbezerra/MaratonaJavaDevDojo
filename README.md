@@ -73,54 +73,53 @@ Com este estudo, eu posso:
 - Maratona Java 36 - [Orientação Objetos - Interfaces](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/interfaces)
 - Maratona Java 37 - [Orientação Objetos - Polimorfismo](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/polimorfismo)
 - Maratona Java 38 - [Exceções](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/tree/main/src/com/andrecsbezerra/maratonajava/javacore/exception)
-- Maratona Java 96 - Exceções pt 02 - RuntimeException
-- Maratona Java 97 - Exceções pt 03 - Exception
-- Maratona Java 98 - Exceções pt 04 - Lançando exceção unchecked
-- Maratona Java 99 - Exceções pt 05 - Lançando exceção checked
-- Maratona Java 100 - Exceções pt 06 - Bloco Finally
-- Maratona Java 101 - Exceções pt 07 - Capturando múltiplas exceções
-- Maratona Java 102 - Exceções pt 08 - Multi catch em linha
-- Maratona Java 103 - Exceções pt 09 - Try with resources
-- Maratona Java 104 - Exceções pt 10 - Exceção customizada
-- Maratona Java 105 - Exceções pt 11 - Exceção e regras de sobrescrita
-- Maratona Java 106 - Classes Utilitárias - Wrappers pt 01
-- Maratona Java 107 - Classes Utilitárias - Wrappers pt 02
-- Maratona Java 108 - Classes Utilitárias - Strings pt 01
-- Maratona Java 109 - Classes Utilitárias - Strings pt 02
-- Maratona Java 110 - Classes Utilitárias - Strings pt 03 - Desempenho
-- Maratona Java 111 - Classes Utilitárias - Strings pt 04 - StringBuilder
-- Maratona Java 112 - Classes Utilitárias - Date
-- Maratona Java 113 - Classes Utilitárias - Calendar
-- Maratona Java 114 - Classes Utilitárias - DateFormat
-- Maratona Java 115 - Classes Utilitárias - Internacionalização Datas com Locale
-- Maratona Java 116 - Classes Utilitárias - Internacionalização Números com Locale
-- Maratona Java 117 - Classes Utilitárias - Internacionalização de moeda com Locale
-- Maratona Java 118 - Classes Utilitárias - SimpleDateFormat
-- Maratona Java 119 - Classes Utilitárias - LocalDate
-- Maratona Java 120 - Classes Utilitárias - LocalTime
-- Maratona Java 121 - Classes Utilitárias - LocalDateTime
-- Maratona Java 122 - Classes Utilitárias - Instant
-- Maratona Java 123 - Classes Utilitárias - Duration
-- Maratona Java 124 - Classes Utilitárias - Period
-- Maratona Java 125 - Classes Utilitárias - ChronoUnit
-- Maratona Java 126 - Classes Utilitárias - TemporalAdjusters
-- Maratona Java 127 - Classes Utilitárias - TemporalAdjuster
-- Maratona Java 128 - Classes Utilitárias - ZonedDateTime, ZoneId, OffsetDateTime
-- Maratona Java 129 - Classes Utilitárias - DateTimeFormatter
-- Maratona Java 130 - Classes Utilitárias - ResourceBundle
-- Maratona Java 131 - Classes Utilitárias - Regex pt 01 - Pattern e Matcher
-- Maratona Java 132 - Classes Utilitárias - Regex pt 02 - Pattern e Matcher - Meta caracteres
-- Maratona Java 133 - Classes Utilitárias - Regex pt 03 - Pattern e Matcher - Range
-- Maratona Java 134 - Classes Utilitárias - Regex pt 04 - Pattern e Matcher - Quantificadores pt 01
-- Maratona Java 135 - Classes Utilitárias - Regex pt 05 - Pattern e Matcher - Quantificadores pt 02
-- Maratona Java 136 - Classes Utilitárias - Regex pt 06 - Pattern e Matcher - Anchor
-- Maratona Java 137 - Classes Utilitárias - Scanner - Tokens e Delimitadores
-- Maratona Java 138 - Classes Utilitárias - IO pt 01 - File
-- Maratona Java 139 - Classes Utilitárias - IO pt 02 - FileWriter
-- Maratona Java 140 - Classes Utilitárias - IO pt 03 - FileReader
-- Maratona Java 141 - Classes Utilitárias - IO pt 04 - BufferedWriter
-- Maratona Java 142 - Classes Utilitárias - IO pt 05 - BufferedReader
-- Maratona Java 143 - Classes Utilitárias - IO pt 06 - File para diretórios
+- Maratona Java 96 - [Exceções pt 02 - RuntimeException](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/runtime/test/RuntimeExceptionTest01.java)
+- Maratona Java 97 - [Exceções pt 03 - Exception](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/runtime/test/RuntimeExceptionTest01.java)
+- Maratona Java 98 - [Exceções pt 04 - Lançando exceção unchecked](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/runtime/test/RuntimeExceptionTest02.java)
+- Maratona Java 99 - [Exceções pt 05 - Lançando exceção checked](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/runtime/test/RuntimeExceptionTest01.java)
+- Maratona Java 100 - [Exceções pt 06 - Bloco Finally](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/runtime/test/RunTimeExceptionTest03.java)
+- Maratona Java 101 - [Exceções pt 07 - Capturando múltiplas exceções](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/runtime/test/RunTimeExceptionTest04.java)
+- Maratona Java 102 - [Exceções pt 08 - Multi catch em linha](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/runtime/test/RunTimeExceptionTest04.java)
+- Maratona Java 103 - [Exceções pt 09 - Try with resources](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/test/TryWithResourcesTest01.java)
+- Maratona Java 104 - [Exceções pt 10 - Exceção customizada](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/dominio/LoginInvalidoException.java)
+- Maratona Java 105 - [Exceções pt 11 - Exceção e regras de sobrescrita](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/exception/test/SobrescritaComExceptionTest01.java)
+- Maratona Java 106 - [Classes Utilitárias - Wrappers](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/wrappers/test/WrapperTest01.java) 
+- Maratona Java 108 - [Classes Utilitárias - Strings pt 01](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/string/test/StringTest01.java)
+- Maratona Java 109 - [Classes Utilitárias - Strings pt 02](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/string/test/StringTest02.java)
+- Maratona Java 110 - [Classes Utilitárias - Strings pt 03 - Desempenho](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/string/test/StringPerformanceTest01.java)
+- Maratona Java 111 - [Classes Utilitárias - Strings pt 04 - StringBuilder](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/string/test/StringBuilderTest01.java)
+- Maratona Java 112 - [Classes Utilitárias - Date](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/datas/test/DateTest01.java)
+- Maratona Java 113 - [Classes Utilitárias - Calendar](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/datas/test/CalendarTest01.java)
+- Maratona Java 114 - [Classes Utilitárias - DateFormat](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/formatacao/test/DateFormatTest01.java)
+- Maratona Java 115 - [Classes Utilitárias - Internacionalização Datas com Locale](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/formatacao/test/LocaleTest01.java)
+- Maratona Java 116 - [Classes Utilitárias - Internacionalização Números com Locale](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/formatacao/test/NumberFormatTest01.java)
+- Maratona Java 117 - [Classes Utilitárias - Internacionalização de moeda com Locale](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/formatacao/test/NumberFormatTest02.java)
+- Maratona Java 118 - [Classes Utilitárias - SimpleDateFormat](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/main/src/com/andrecsbezerra/maratonajava/javacore/formatacao/test/SimpleDateFormatTest01.java)
+- Maratona Java 119 - [Classes Utilitárias - LocalDate](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/LocalDateTest01.java#L8)
+- Maratona Java 120 - [Classes Utilitárias - LocalTime](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/LocalTimeTest01.java#L7)
+- Maratona Java 121 - [Classes Utilitárias - LocalDateTime](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/LocalDateTimeTest01.java)
+- Maratona Java 122 - [Classes Utilitárias - Instant](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/InstantTest01.java)
+- Maratona Java 123 - [Classes Utilitárias - Duration](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/DurationTest01.java)
+- Maratona Java 124 - [Classes Utilitárias - Period](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/PeriodTest01.java)
+- Maratona Java 125 - [Classes Utilitárias - ChronoUnit](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/ChronoUnitTest01.java)
+- Maratona Java 126 - [Classes Utilitárias - TemporalAdjusters](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/TemporalAdjustersTest01.java)
+- Maratona Java 127 - [Classes Utilitárias - TemporalAdjuster](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/TemporalAdjusterTest01.java)
+- Maratona Java 128 - [Classes Utilitárias - ZonedDateTime, ZoneId, OffsetDateTime](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/ZoneTest01.java#L7)
+- Maratona Java 129 - [Classes Utilitárias - DateTimeFormatter](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/datas/test/DateTimeFormatterTest01.java)
+- Maratona Java 130 - [Classes Utilitárias - ResourceBundle](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/resourcebundle/test/ResourceBundleTest01.java)
+- Maratona Java 131 - [Classes Utilitárias - Regex pt 01 - Pattern e Matcher](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/regex/test/PatternMatcherTest01.java)
+- Maratona Java 132 - [Classes Utilitárias - Regex pt 02 - Pattern e Matcher - Meta caracteres](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/regex/test/PatternMatcherTest02.java)
+- Maratona Java 133 - [Classes Utilitárias - Regex pt 03 - Pattern e Matcher - Range](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/regex/test/PatternMatcherTest03.java)
+- Maratona Java 134 - [Classes Utilitárias - Regex pt 04 - Pattern e Matcher - Quantificadores pt 01](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/regex/test/PatternMatcherTest04.java)
+- Maratona Java 135 - [Classes Utilitárias - Regex pt 05 - Pattern e Matcher - Quantificadores pt 02](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/regex/test/PatternMatcherTest05.java)
+- Maratona Java 136 - [Classes Utilitárias - Regex pt 06 - Pattern e Matcher - Anchor](https://regexr.com/)
+- Maratona Java 137 - [Classes Utilitárias - Scanner - Tokens e Delimitadores](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/regex/test/ScannerTest01.java)
+- Maratona Java 138 - [Classes Utilitárias - IO pt 01 - File](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/io/test/FileTest01.java)
+- Maratona Java 139 - [Classes Utilitárias - IO pt 02 - FileWriter](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/io/test/FileWriter01.java)
+- Maratona Java 140 - [Classes Utilitárias - IO pt 03 - FileReader](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/io/test/FileReaderTest01.java)
+- Maratona Java 141 - [Classes Utilitárias - IO pt 04 - BufferedWriter](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/io/test/BufferedWriterTest01.java)
+- Maratona Java 142 - [Classes Utilitárias - IO pt 05 - BufferedReader](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/io/test/BufferedReaderTest01.java)
+- Maratona Java 143 - [Classes Utilitárias - IO pt 06 - File para diretórios](https://github.com/andrecsbezerra/MaratonaJavaDevDojo/blob/e1641557bffd64f0ad89db3adc29221e5b953233/src/com/andrecsbezerra/maratonajava/javacore/io/test/FileTest02.java)
 - Maratona Java 144 - Classes Utilitárias - NIO pt 01 - Path, Paths, Files pt 01
 - Maratona Java 145 - Classes Utilitárias - NIO pt 02 - Path, Paths, Files pt 02
 - Maratona Java 146 - Classes Utilitárias - NIO pt 03 - Normalização
